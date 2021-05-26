@@ -1,6 +1,6 @@
 ### How's It Going? I'm William (most of my friends call me Will, and we're friends now right?)
 
-<div class="tenor-gif-embed" data-postid="17612038" data-share-method="host" data-width="100%" data-aspect-ratio="1.8175182481751821"><a href="https://tenor.com/view/drake-will-ferrell-handshake-funny-high-five-gif-17612038">Drake Will Ferrell GIF</a> from <a href="https://tenor.com/search/drake-gifs">Drake GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<image src="https://i.gifer.com/3Udu.gif" alt="friends" />
 
 <!--
 **Jawnny5/Jawnny5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
