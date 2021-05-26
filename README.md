@@ -1,6 +1,6 @@
 ### How's It Going? I'm William (most of my friends call me Will, and we're friends now right?)
 
-<image src="https://i.gifer.com/3Udu.gif" alt="friends" />
+<img src="https://i.gifer.com/3Udu.gif" alt="friends" />
 
 <!--
 **Jawnny5/Jawnny5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
