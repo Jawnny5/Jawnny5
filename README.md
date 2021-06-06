@@ -28,7 +28,7 @@ I'm a Military Brat who has seen and lived in so many places people only get to 
 
 
 #### How You, New Friend, Can Reach Me
-link to LinkedIn
+[I'm an inline-style link](https://www.linkedin.com/in/william-neal1283/)
 link to DenverDevs slack
 link to Email
 
