@@ -20,7 +20,7 @@ I'm a Military Brat who has seen and lived in so many places people only get to 
 
 🔬 What I'm Currently Working On **|** Personal Portfolio Site, Branding & E-Commerce Site, Migration of ANCH app to React Native
 
-🌱 What I'm Currently Learning **|** GraphQL, Mobile Frameworks (Flutter & React Native), CapacitorJs
+🌱 What I'm Currently Learning **|** GraphQL, CapacitorJs, Golang
 
 🤝 I’m Looking To Collaborate On **|** OpenSource Projects, GraphQL Projects
 
