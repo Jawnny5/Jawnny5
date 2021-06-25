@@ -30,7 +30,7 @@ I'm a Military Brat who has seen and lived in so many places people only get to 
 #### How You, New Friend, Can Reach Me
 [LinkedIn](https://www.linkedin.com/in/william-neal1283/)
 
-[Gmail](william.neal83@gmail.com)
+[Gmail](mailto:william.neal83@gmail.com)
 
 <!--
 **Jawnny5/Jawnny5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
