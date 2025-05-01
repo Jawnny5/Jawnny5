@@ -11,26 +11,26 @@
 
 📒 The Cliff's Notes On Me 📒
 
-I'm a Military Brat who has seen and lived in so many places people only get to see on TV or a globe 🌍. I completed my BA at Georgia State University in 2009 in Communications and since then, I've held roles in a lot of exciting industries, like Retail Management, Real Estate Investment and Trusts (REITS), Production and I even maintained my own E-Commerce portal for a time! COVID-19 forced many of us to ask ourselves really hard questions about what our futures looked like professionally, and after a bit of research and soul searching, here I am six months later, a Flatiron School Software Engineering Graduate and excited to make an impact as Software Engineer for years to come!
+I'm a Military Brat who has seen and lived in so many places people only get to see on TV or a globe 🌍. Around the time of the COVID-19 pandemic, I completed the most transformative professional experience of my life after attending Flatiron School Bootcamp and I'm now a Software Engineer with over 3 years experience, looking to expand my skillset from Mid level engineer to Senior. OOP For the win!
 
 ### _TECHNOLOGIES I ❤_
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" alt="jslogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ruby/ruby-original-wordmark.svg" alt="rblogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original-wordmark.svg" alt="nodelogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg" alt="reactlogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nextjs/nextjs-original-wordmark.svg" alt="nextlogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/postgresql/postgresql-original-wordmark.svg" alt="psqllogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/rails/rails-original-wordmark.svg" alt="railslogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/materialui/materialui-original.svg" alt="muilogo" width="50px" height="50px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" alt="csharplogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcorelogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azure/azure-original.svg" alt="azurelogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/graphql/graphql-plain-wordmark.svg" alt="gqllogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="nextlogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azuredevops/azuredevops-original.svg" alt="devopslogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="tslogo" width="50px" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg" alt="reactlogo" width="50px" height="50px">
 
 
-🔬 What I'm Currently Working On **|** Personal Portfolio Site, Branding & E-Commerce Site, Migration of ANCH app to React Native
+🔬 What I'm Currently Working On **|** Ordering App for Small Food Business
 
-🌱 What I'm Currently Learning **|** GraphQL, CapacitorJs, Golang
+🌱 What I'm Currently Learning **|** Deeper understanding of RESTful APIS (HATEOAS), Kubernetes, MAUI
 
-🤝 I’m Looking To Collaborate On **|** OpenSource Projects, GraphQL Projects
+🤝 I’m Looking To Collaborate On **|** Any .NET Projects (Especially MAUI), OpenSource Projects
 
-🕶 Fun Fact **|** I Played College Basketball With Dennis Chism Who Went On To And1 Tour Stardom as "Spyda"
+🕶 Fun Fact **|** I love to rollerblade and am part of a skate club in my local metro area.
 
 
 #### How You, New Friend, Can Reach Me
 [LinkedIn](https://www.linkedin.com/in/william-neal1283/)
 
-[Gmail](mailto:william.neal83@gmail.com)
+[Gmail](mailto:wln.develops@gmail.com)
 
 <!--
 **Jawnny5/Jawnny5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
